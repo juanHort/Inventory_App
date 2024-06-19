@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Archivos de configuración de Vim
+*.swp
+*.swo
+
+# Archivos de base de datos
+inventory.db
+
+# Archivos de logs
+*.log
+
